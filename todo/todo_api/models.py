@@ -1,4 +1,3 @@
-# todo/todo_api/models.py
 from django.db import models
 
 class Usuario(models.Model):
